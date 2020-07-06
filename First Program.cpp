@@ -108,3 +108,10 @@ int main()
    // Thanks for enjoying my first program! :)
    return 0;
 }
+
+
+
+void aj()
+{
+	cout << "hello";
+}
